@@ -1,4 +1,4 @@
-# Machine learning And Earth Observation
+# AI And Earth Observation
 Due to the rapid advancement in technology in terms of effectiveness and efficiency, Geographical or earth observation data can now be easily analyzed using AI and machine learning solutions. Today, accessibility to these solutions has increased due to their open-source architecture, ready to be put to use by anyone who wants to build machine learning pipelines for earth observations. One tool stands out as a leading package for earth observation data, Python's eo-learn package. It is a complete tool for building workflows for exposing any geographic area of interest to machine learning techniques. For further information about the package, go to https://github.com/sentinel-hub/eo-learn
 
 In order to get the package up and runing on Python's Jupyter Notebook, several steps need to be taken to install it (Here, we are using x64 Bit Windows 10 OS and Python Anaconda 3.7 x64.
